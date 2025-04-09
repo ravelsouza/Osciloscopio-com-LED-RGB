@@ -1,16 +1,31 @@
-# OSCILOSCÓPIO COM LEDS RGB PROGRAMÁVEIS
+# Osciloscópio com LEDs RGB Programáveis
 
-O projeto surge da necessidade, a nível didático, de um equipamento de baixo custo que auxilie os alunos a compreender as formas de onda e o uso do equipamento em si. 
-Muitas escolas de nível fundamental e médio não possuem infraestrutura para proporcionar aulas práticas sobre equipamentos de medição elétrica. Com esse projeto de 
-baixissímo custo, torna-se possível a implementação de aulas mais experimentais e, consequentemente, proporciona aos alunos uma experiência próxima do uso de um osciloscópio profissional.
+## Descrição do Projeto
 
-O projeto necessita de:
--Algum microcontrolador: Placas Arduino, ESP32 ou ESP8266. 
--120 Led´s RGB programáveis ligados em paralelo com 1 pino digital dedicado a cada 12 Led’s..
+Projeto didático de baixo custo para auxiliar alunos a compreender formas de onda usando LEDs RGB programáveis.
 
-Biblioteca Adafruit Neopixel:
- https://github.com/adafruit/Adafruit_NeoPixel
-Software de simulação:
-https://www.tinkercad.com/
-Pesquisa sobre Osciloscópio: 
-https://www.mundodaeletrica.com.br/o-que-e-osciloscopio-e-para-que-serve/#google_vignette
+## Materiais Necessários
+
+- **Microcontrolador:** Arduino, ESP32 ou ESP8266
+- **LEDs RGB Programáveis:** 120 unidades (Ex.: WS2812B)
+- **Fonte de alimentação adequada**
+- Jumpers e protoboard (opcional)
+
+## Instalação da Biblioteca
+
+Este projeto utiliza a biblioteca **Adafruit NeoPixel**.
+
+Adicione através do Gerenciador de Bibliotecas do Arduino IDE ou acesse:
+[Adafruit NeoPixel GitHub](https://github.com/adafruit/Adafruit_NeoPixel)
+
+## Simulador Online
+
+Você pode testar seu projeto no [Tinkercad](https://www.tinkercad.com/).
+
+## Referências
+
+- [O que é Osciloscópio e para que serve?](https://www.mundodaeletrica.com.br/o-que-e-osciloscopio-e-para-que-serve/#google_vignette)
+
+## Licença
+
+Projeto de uso educacional e sem fins lucrativos.
