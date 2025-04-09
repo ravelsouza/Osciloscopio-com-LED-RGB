@@ -26,6 +26,7 @@ Você pode testar seu projeto no [Tinkercad](https://www.tinkercad.com/).
 <p align="center">
   <img src="screenshots/funcionamento.png" alt="Diagrama do OxIA" />
 </p>
+
 ## Referências
 
 - [O que é Osciloscópio e para que serve?](https://www.mundodaeletrica.com.br/o-que-e-osciloscopio-e-para-que-serve/#google_vignette)
