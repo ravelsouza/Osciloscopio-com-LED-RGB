@@ -1,4 +1,4 @@
-OSCILOSCÓPIO COM LEDS RGB PROGRAMÁVEIS
+# OSCILOSCÓPIO COM LEDS RGB PROGRAMÁVEIS
 
 O projeto surge da necessidade, a nível didático, de um equipamento de baixo custo que auxilie os alunos a compreender as formas de onda e o uso do equipamento em si. 
 Muitas escolas de nível fundamental e médio não possuem infraestrutura para proporcionar aulas práticas sobre equipamentos de medição elétrica. Com esse projeto de 
