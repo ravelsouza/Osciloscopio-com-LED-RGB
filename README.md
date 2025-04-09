@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 Projeto didático de baixo custo para auxiliar alunos a compreender formas de onda usando LEDs RGB programáveis.
-
+![Esquema]('screenshots/esquema.png')
 ## Materiais Necessários
 
 - **Microcontrolador:** Arduino, ESP32 ou ESP8266
