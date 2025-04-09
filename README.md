@@ -3,7 +3,9 @@
 ## Descrição do Projeto
 
 Projeto didático de baixo custo para auxiliar alunos a compreender formas de onda usando LEDs RGB programáveis.
-![Esquema]('./screenshots/esquema.png')
+<p align="center">
+  <img src="screenshots/esquema.png" alt="Diagrama do OxIA" />
+</p>
 ## Materiais Necessários
 
 - **Microcontrolador:** Arduino, ESP32 ou ESP8266
